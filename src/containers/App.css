@@ -1,0 +1,11 @@
+@font-face{
+    font-family: Piedra;
+    src: url(Piedra-Regular.ttf);
+}
+h1{
+    font-weight: bold;
+    font-family: Piedra;
+    font-size: 5rem;
+    color: rgb(58, 230, 124);
+    margin: 30px 0 10px 0;
+}
